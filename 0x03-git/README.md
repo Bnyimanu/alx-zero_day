@@ -1,1 +1,1 @@
-This directory is for git
+New readme for git
